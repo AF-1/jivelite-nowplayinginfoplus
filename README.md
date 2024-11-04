@@ -1,10 +1,11 @@
-NowPlaying Info Plus
+Now Playing Info Plus
 ====
 
 An applet for jivelite that modifies the *QVGAlandscape* skin and the *Now Playing* screen of your **SB Radio** to display additional information on the *Now Playing* screen (rating, year, audio metadata, status icons).
 
 ⚠ only for **SB Radio**.
 <br><br>
+
 
 [⬅️ **Back to the list of all plugins**](https://github.com/AF-1/)
 <br><br><br>
@@ -31,7 +32,8 @@ An applet for jivelite that modifies the *QVGAlandscape* skin and the *Now Playi
 
 <br>
 
-Settings are here: **Settings > Screen > Now Playing**.
+Settings are here: **Settings > Screen > Now Playing**.<br>
+To check the currently installed version go to *Settings > Advanced > Uninstall Now Playing Info Plus*.
 <br><br><br>
 
 ## Screenshots[^1]
@@ -123,7 +125,7 @@ Confirm that your device has (unlimited) <i>access to the internet</i>. The jive
 </p></details><br>
 
 <details><summary>»<b>I can't open the <i>Screen > NowPlaying > NowPlaying Views</i> menu.</b>«</summary><br><p>
-This is a jivelite quirk that's not tied to any skin in particular. Just <b>enter the NowPlaying screen</b> using the top right note icon. Then go back and try again. That usually solves it. If not, make sure that you have selected a player and that this player is connected.
+This is a jivelite quirk that's not tied to any skin in particular. Just <b>enter the Now Playing screen</b> using the top right note icon. Then go back and try again. That usually solves it. If not, make sure that you have selected a player and that this player is connected.
 </p></details><br>
 
 <details><summary>»<b>I have changed some skin settings. When I go to the Now Playing screen immediately afterwards, the Now Playing screen does not display the changes or the screen layout is wrong.</b>«</summary><br><p>
