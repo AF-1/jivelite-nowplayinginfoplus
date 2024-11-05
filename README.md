@@ -49,13 +49,13 @@ To check the currently installed version go to *Settings > Advanced > Uninstall 
 
 #### #1 - Get the installer
 
-- Make sure that your LMS and your device have internet access.<br>
+- Make sure that your LMS and your SB Radio have internet access.<br>
 
 - Go to **Settings > Advanced > Applet Installer**.<br>
 
 - Select and install the **Now Playing Info Plus Installer**.
 
-- Your device will reboot automatically.<br><br>
+- Your SB Radio will reboot automatically.<br><br>
 
 #### #2 - Install the NP Info Plus files
 
@@ -63,7 +63,7 @@ To check the currently installed version go to *Settings > Advanced > Uninstall 
 
 - Follow the menu instructions.
 
-- Your device will reboot automatically to complete the installation.
+- Your SB Radio will reboot automatically to complete the installation.
 
 <br><br><br>
 
@@ -75,7 +75,7 @@ To check the currently installed version go to *Settings > Advanced > Uninstall 
 
 - Select and <ins>update</ins> the **Now Playing Info Plus Installer**.<br>
 
-- Your device will reboot automatically.<br><br>
+- Your SB Radio will reboot automatically.<br><br>
 
 #### #2 - Update the NP Info Plus files
 
@@ -83,7 +83,7 @@ To check the currently installed version go to *Settings > Advanced > Uninstall 
 
 - Follow the menu instructions.
 
-- Your device will reboot automatically to complete the update.
+- Your SB Radio will reboot automatically to complete the update.
 
 <br><br><br>
 
@@ -95,27 +95,27 @@ To check the currently installed version go to *Settings > Advanced > Uninstall 
 
 - Select and <ins>remove</ins> the **Now Playing Info Plus Installer**.
 
-- Your device will reboot automatically.<br><br>
+- Your SB Radio will reboot automatically.<br><br>
 
 #### #2 - Remove the applet
 
 - Go to **Settings > Advanced > Uninstall Now Playing Info Plus** and follow the menu instructions.
 
-- Your device will reboot automatically.<br><br>
+- Your SB Radio will reboot automatically.<br><br>
 
 <br><br><br><br>
 
 ## FAQ
 
 <details><summary>»<b>I've used the <i>Applet Installer</i> to install/update the <i>Now Playing Info Plus Installer / Updater</i> but there's <i>no menu item</i> with this name.</b>«</summary><br><p>
-Confirm that your device has (unlimited) <i>access to the internet</i>. The jivelite Applet Installer (<i>Settings > Advanced > Applet Installer</i>) gets the list of available applets from your (local) LMS server. Your device will then (try to) download the applet <b><i>directly</i></b> from the source (URL).
+Confirm that your SB Radio has (unlimited) <i>access to the internet</i>. The jivelite Applet Installer (<i>Settings > Advanced > Applet Installer</i>) gets the list of available applets from your (local) LMS server. Your SB Radio will then (try to) download the applet <b><i>directly</i></b> from the source (URL).
 </p></details><br>
 
 <details><summary>»<b>The Applet Installer doesn't show me the latest applet version.</b>«</summary><br><p>
 
 - Go to <i>Settings -> Advanced -> Applet Installer</i> and confirm that <i>Recommended Applets Only</i> is <b>dis</b>abled.<br>
 
-- Confirm that your server and device <b>both</b> have <b>internet access</b>.<br>
+- Confirm that your server and SB Radio <b>both</b> have <b>internet access</b>.<br>
 
 - If it's a <b>caching</b> problem, try this:<br>
 
@@ -139,7 +139,7 @@ Sometimes you need to <i>switch to another Now Playing view</i> before the chang
 
 If you want to report a new issue, please fill out this [**issue report template**](https://github.com/AF-1/jivelite-nowplayinginfoplus/issues/new?template=bug_report.md&title=%5BISSUE%5D+).<br><br>
 
-If you'd like me to make small changes to the screen layout, please test the new changes on your device/OS first and then create a pull request with the changes here.<br><br>
+If you'd like me to make small changes to the screen layout, please test the new changes on your SB Radio first and then create a pull request with the changes here.<br><br>
 If you use this applet and like it, perhaps you could give it a :star: so that other users can discover it (in their News Feed). Thank you.
 <br><br><br>
 [^1]: The screenshots might not correspond to the current UI in every detail.
