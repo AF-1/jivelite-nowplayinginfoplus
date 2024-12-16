@@ -135,11 +135,11 @@ Sometimes you need to <i>switch to another Now Playing view</i> before the chang
 
 <br><br><br>
 
-## Reporting a new issue
+## Report a new issue
 
-If you want to report a new issue, please fill out this [**issue report template**](https://github.com/AF-1/jivelite-nowplayinginfoplus/issues/new?template=bug_report.md&title=%5BISSUE%5D+).<br><br>
+To report a new issue please file a GitHub [**issue report**](https://github.com/AF-1/jivelite-nowplayinginfoplus/issues/new/choose).<br><br>
 
 If you'd like me to make small changes to the screen layout, please test the new changes on your SB Radio first and then create a pull request with the changes here.<br><br>
-If you use this applet and like it, perhaps you could give it a :star: so that other users can discover it (in their News Feed). Thank you.
+And if you use this applet and like it, perhaps you could give it a :star: so that other users can discover it (in their News Feed). Thank you.
 <br><br><br>
 [^1]: The screenshots might not correspond to the current UI in every detail.
