@@ -5,6 +5,7 @@ An applet for jivelite that modifies the *QVGAlandscape* skin and the *Now Playi
 
 > [!IMPORTANT]
 > Tested with SB Radio firmware **8.5**.x.<br>If you update to another firmware version, this applet might not work anymore.
+
 <br><br><br>
 
 
