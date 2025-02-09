@@ -3,10 +3,8 @@ Now Playing Info Plus
 
 An applet for jivelite that modifies the *QVGAlandscape* skin and the *Now Playing* screen of your **SB Radio** to display additional information on the *Now Playing* screen (rating, year, audio metadata, status icons).
 
-⚠ only for **SB Radio**.<br>
-
 > [!IMPORTANT]
-> Only tested with SB Radio firmware 8.5.x.
+> ⚠ Only tested with SB Radio firmware 8.5.x.
 <br><br>
 
 
