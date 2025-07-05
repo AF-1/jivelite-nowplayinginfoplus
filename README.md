@@ -143,7 +143,13 @@ Sometimes you need to <i>switch to another Now Playing view</i> before the chang
 
 To report a new issue please file a GitHub [**issue report**](https://github.com/AF-1/jivelite-nowplayinginfoplus/issues/new/choose).<br><br>
 
-If you'd like me to make small changes to the screen layout, please test the new changes on your SB Radio first and then create a pull request with the changes here.<br><br>
-And if you use this applet and like it, perhaps you could give it a :star: so that other users can discover it (in their News Feed). Thank you.
+If you'd like me to make small changes to the screen layout, please test the new changes on your SB Radio first and then create a pull request with the changes here.
 <br><br><br>
+
+
+## ⭐ Contributing
+
+If you find this applet useful, please consider giving it a <img src="screenshots/githubstar.png" width="20" height="20" alt="star" /> on GitHub (top right of this page) so that other users can discover it (in their News Feed).
+<br><br><br><br>
+
 [^1]: The screenshots might not correspond to the current UI in every detail.
