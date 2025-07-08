@@ -55,15 +55,15 @@ To check the currently installed version go to *Settings > Advanced > Uninstall 
 
 - Make sure that your LMS and your SB Radio have internet access.<br>
 
-- Go to **Settings > Advanced > Applet Installer**.<br>
+- Go to `Settings > Advanced > Applet Installer`.<br>
 
-- Select and install the **Now Playing Info Plus Installer**.
+- Select and install the `Now Playing Info Plus Installer`.
 
 - Your SB Radio will reboot automatically.<br><br>
 
 #### #2 - Install the NP Info Plus files
 
-- You should see a new menu item called **Now Playing Info Plus Installer** in the home menu.<br>
+- You should see a new menu item called `Now Playing Info Plus Installer` in the home menu.<br>
 
 - Follow the menu instructions.
 
@@ -75,15 +75,15 @@ To check the currently installed version go to *Settings > Advanced > Uninstall 
 
 #### #1 - Get the update
 
-- Go to *Settings > Advanced > Applet Installer*.<br>
+- Go to `Settings > Advanced > Applet Installer`.<br>
 
-- Select and <ins>update</ins> the **Now Playing Info Plus Installer**.<br>
+- Select and <ins>update</ins> the `Now Playing Info Plus Installer`.<br>
 
 - Your SB Radio will reboot automatically.<br><br>
 
 #### #2 - Update the NP Info Plus files
 
-- You should see a new menu item called **Now Playing Info Plus Updater** in the home menu.<br>
+- You should see a new menu item called `Now Playing Info Plus Updater` in the home menu.<br>
 
 - Follow the menu instructions.
 
@@ -95,15 +95,15 @@ To check the currently installed version go to *Settings > Advanced > Uninstall 
 
 #### #1 - Remove Now Playing Info Plus Installer from the list of installed applets
 
-- Go to *Settings > Advanced > Applet Installer*.<br>
+- Go to `Settings > Advanced > Applet Installer`.<br>
 
-- Select and <ins>remove</ins> the **Now Playing Info Plus Installer**.
+- Select and <ins>remove</ins> the `Now Playing Info Plus Installer`.
 
 - Your SB Radio will reboot automatically.<br><br>
 
 #### #2 - Remove the applet
 
-- Go to **Settings > Advanced > Uninstall Now Playing Info Plus** and follow the menu instructions.
+- Go to `Settings > Advanced > Uninstall Now Playing Info Plus` and follow the menu instructions.
 
 - Your SB Radio will reboot automatically.<br><br>
 
