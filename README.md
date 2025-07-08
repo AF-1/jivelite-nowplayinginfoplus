@@ -128,7 +128,7 @@ Confirm that your SB Radio has (unlimited) <i>access to the internet</i>. The ji
     - if you enter the <i>Settings -> Advanced -> Applet Installer</i> menu and it doesn't show the latest update, exit the menu and wait a couple of minutes before calling it again.
 </p></details><br>
 
-<details><summary>»<b>I can't open the <i>Screen > NowPlaying > NowPlaying Views</i> menu.</b>«</summary><br><p>
+<details><summary>»<b>I can't open the `Screen > NowPlaying > NowPlaying Views` menu.</b>«</summary><br><p>
 This is a jivelite quirk that's not tied to any skin in particular. Just <b>enter the Now Playing screen</b> using the top right note icon. Then go back and try again. That usually solves it. If not, make sure that you have selected a player and that this player is connected.
 </p></details><br>
 
